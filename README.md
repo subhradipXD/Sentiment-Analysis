@@ -1,4 +1,5 @@
-#Sentiment Analysis for Movie Reviews
+# Sentiment Analysis for Movie Reviews
+
 **Overview**
 This project performs sentiment analysis on a dataset of movie reviews to classify them as either positive or negative. Sentiment analysis helps determine the sentiment or emotional tone expressed in the text, which can be valuable for understanding public opinions about movies.
 
